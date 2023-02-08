@@ -2,6 +2,8 @@
 Ejercicios de Técnicas de Programación Practica 2
 
 
+https://github.com/ElenaMegia/Ejercicios-2.-El-pseudoc-digo.git
+
 ## Ejercicio 1
 
 
