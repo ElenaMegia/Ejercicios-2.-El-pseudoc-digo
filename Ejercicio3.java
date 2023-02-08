@@ -11,13 +11,18 @@
 //Fin
 
 
-import javax.swing.*;
+import java.util.Scanner;
 
 public class Ejercicio3 {
-    public static void main(String[] args) {
+    //Crear scanner
+    static Scanner sc = new Scanner(System.in);
+    public static void Ejercicio3metodo() {
         double valor1, valor2;
-        valor1 = Double.parseDouble(JOptionPane.showInputDialog("Introduza un valor: "));
-        valor2 = Double.parseDouble(JOptionPane.showInputDialog("Introduza otro valor: "));
+        System.out.println("Introduza un valor: ");
+        valor1 = sc.nextDouble();
+        System.out.println("Introduza otro valor: ");
+
+        valor2 = sc.nextDouble();
         // tratamiento
         valor1 = valor2;
         valor2 = valor1;

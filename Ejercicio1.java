@@ -14,7 +14,7 @@
 
 public class Ejercicio1 {
     //escribir en java el codigo del algoritmo
-    public static void main(String[] args) {
+    public static void Ejercicio1metodo() {
         int a, b;
         a = 3;
         System.out.println("a = " + a);

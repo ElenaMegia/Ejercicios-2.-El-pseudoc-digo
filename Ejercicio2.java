@@ -15,7 +15,7 @@
 
 
 public class Ejercicio2 {
-    public static void main(String[] args) {
+    public static void Ejercicio2metodo() {
         int valor1, valor2;
         String cadena1;
         final double CST = 49.78;
