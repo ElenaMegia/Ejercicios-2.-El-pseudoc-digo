@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class Ejercicio4 {
     static Scanner sc = new Scanner(System.in);
     //Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
-    public static void main(String[] args) {
+    public static void ejercicio4(String[] args) {
         double distancia, tiempo, velocidad;
         System.out.println("Introduzca la distancia recorrida (km).");
         distancia = sc.nextDouble();
